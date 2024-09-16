@@ -13,12 +13,6 @@
   src: local(""), url("../fonts/open-sans-v18-latin-700.woff2") format("woff2"),
     url("../fonts/open-sans-v18-latin-700.woff") format("woff");
 }
-.test-btn {
-  display: inline-block;
-  padding: 25px;
-  border: none;
-  background-color: red;
-}
 
 * {
   box-sizing: border-box;
