@@ -86,7 +86,7 @@ body {
   width: 100%;
   font-size: 15px;
   line-height: 24px;
-  color: #000000;
+  color: #b30a0a;
   text-decoration: none;
 }
 
@@ -101,7 +101,14 @@ body {
   background-color: #191919;
   content: "";
 }
-
+.button{
+  display: inline-block;
+  padding: 20px;
+  background-color:red;
+  color: white;
+  text-align: center;
+  margin: 0 auto;
+}
 .nav-item:hover .nav-link::after {
   display: block;
 }
